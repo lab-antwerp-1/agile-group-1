@@ -4,8 +4,6 @@
 
 > these are necessary for basic usability
 
-- **Home Page**
-
  1. As a user I can read the title of the page
 
   - [ ] _there is a prominent title at the top of the web page_
