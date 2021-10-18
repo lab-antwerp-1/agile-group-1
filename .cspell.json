@@ -1,8 +1,6 @@
 {
   "language": "en",
-  "words": [
-    "socio"
-  ],
+  "words": ["Aviv", "socio", "Wireframe"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
