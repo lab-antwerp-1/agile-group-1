@@ -2,8 +2,6 @@
 
 ## Must Haves
 
-> these are necessary for basic usability
-
 1. As a user I can read the title of the page.
 
    - [ ] _there is a prominent title at the top of the web page_
@@ -28,8 +26,24 @@
 
 ## Should-Have
 
-> will complete the user experience, but are not necessary.
+1. As a user I can get in contact with the organization.
+
+   - [ ] _there is a footer with social media links and other contact info_
+
+2. As a user I see a user-friendly website.
+
+   - [ ] _the design is simple and clean_
 
 ## Could Haves
 
-> would be really cool ... if there's time
+1. As a user I can get in contact with the organization.
+
+   - [ ] _there is contact form_
+
+2. As a user I can use different devices to view the website.
+
+   - [ ] _use responsive design_
+
+3. As a user I can see nice pictures, videos, info-graphics about coffee.
+
+   - [ ] _there are pictures, animations, videos about coffee_
