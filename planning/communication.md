@@ -5,8 +5,8 @@
 | Tasks                         | Responsible |  Dateline  |
 | ----------------------------- | :---------: | :--------: |
 | Update planning documentation |   Daniel    | 18/10/2021 |
-|                               |             |            |
-|                               |             |            |
+| Web development strategy      |    Darin    | 18/10/2021 |
+| Wireframe                     |    Aviv     | 18/10/2021 |
 |                               |             |            |
 |                               |             |            |
 
