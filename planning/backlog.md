@@ -10,16 +10,20 @@
 
    - [ ] _there is a navigation bar right on top_
 
-3. As a user I can find information about the best places to go for a nice
+3. As I user I can learn about the website's purpose.
+
+   - [ ] _there is an introduction to the website in the homepage_
+
+4. As a user I can find information about the best places to go for a nice
    coffee.
 
    - [ ] _there is a page with the top ten best coffee places in the city_
 
-4. As a user I can learn different coffee recipes and preparations.
+5. As a user I can learn different coffee recipes and preparations.
 
    - [ ] _there is a page with different recipes with coffee_
 
-5. As a user I can learn about the production process of coffee.
+6. As a user I can learn about the production process of coffee.
 
    - [ ] _there is a section on a page where the process farm-to-cup is
          described_
