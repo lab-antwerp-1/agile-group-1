@@ -43,7 +43,26 @@ The website will be developed through the following issues:
 
   ***
 
-3-  Top-five web page:
+3- Home page body:
+
+- As I user I can learn about the website's purpose.
+  - this will be on the home page.
+  - [ ] _there is an introduction to the website in the homepage_
+  - this will be developed on the branch `7-home`.
+
+**Issues:**
+
+    `1. HTML:`
+    - [ ] use `p` to include the main paragraph.
+    - [ ] use `img` to add the images.
+ 
+    `2- CSS:`
+    - [ ] use ` ` color for the paragraphs.
+    - [ ] use `Euphorigenic` as font type.
+
+***
+
+4-  Top-five web page:
 
 - As a user I can find information about the best places to go for a
 nice coffee.
@@ -66,7 +85,7 @@ nice coffee.
 
 ***
 
-4-  Recipes web page:
+5-  Recipes web page:
 
 - As a user I can learn different coffee recipes and preparations.
   - [ ] _there is a page with different recipes with coffee_
@@ -89,13 +108,13 @@ nice coffee.
 
     ***
 
-5-  Process web page:
+6-  properties web page:
 
 - As a user I can learn about the production process of coffee.
   - [ ] _there is a section on a page where the process farm-to-cup is
          described_
-  - this will be on `Process.html` web pages.
-  - this will be developed on the branch `5-Process`.
+  - this will be on `properties.html` web pages.
+  - this will be developed on the branch `5-properties`.
 
 **Issues:**
 
@@ -116,7 +135,7 @@ nice coffee.
 
 ## Shuld Haves
 
-  6-  Footer:
+  7-  Footer:
     - As a user I can get in contact with the organization.
       - [ ] _there is a footer with social media links and other contact info_
       - this will be on all web pages.
