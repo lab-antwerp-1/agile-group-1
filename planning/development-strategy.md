@@ -108,13 +108,13 @@ nice coffee.
 
     ***
 
-6-  Process web page:
+6-  properties web page:
 
 - As a user I can learn about the production process of coffee.
   - [ ] _there is a section on a page where the process farm-to-cup is
          described_
-  - this will be on `Process.html` web pages.
-  - this will be developed on the branch `5-Process`.
+  - this will be on `properties.html` web pages.
+  - this will be developed on the branch `5-properties`.
 
 **Issues:**
 
