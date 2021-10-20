@@ -2,7 +2,7 @@
 
 The website will be developed through the following issues:
 
-***
+---
 
 ## Must Haves
 
@@ -18,11 +18,12 @@ The website will be developed through the following issues:
     `1. HTML:`
     - [ ] use `header` to include the logo.
     - [ ] use `anchor` and `img` to add the logo.
- 
+
     `2- CSS:`
     - [ ] use `left` align to place the logo.
 
-***
+---
+
 2- Navigation bar:
 
 - As a user I can see the different sections of the website.
@@ -35,13 +36,13 @@ The website will be developed through the following issues:
     `1. HTML:`
     - [ ] use `nav` to include the navigation bar.
     - [ ] use `ul` and `li` to add the navigation links.
- 
+
     `2- CSS:`
     - [ ] use `right` align to place the logo.
     - [ ] use ` ` color.
     - [ ] use `Euphorigenic` as font type.
 
-  ***
+---
 
 3- Home page body:
 
@@ -55,17 +56,17 @@ The website will be developed through the following issues:
     `1. HTML:`
     - [ ] use `p` to include the main paragraph.
     - [ ] use `img` to add the images.
- 
+
     `2- CSS:`
     - [ ] use ` ` color for the paragraphs.
     - [ ] use `Euphorigenic` as font type.
 
-***
+---
 
-4-  Top-five web page:
+4- Top-five web page:
 
-- As a user I can find information about the best places to go for a
-nice coffee.
+- As a user I can find information about the best places to go for a nice
+  coffee.
   - [ ] _there is a page with the top five best coffee places in the city_
   - this will be on `top-five.html` web pages.
   - this will be developed on the branch `3-top`.
@@ -77,15 +78,15 @@ nice coffee.
     - [ ] use `p` to include the main paragraph.
     - [ ] use `img` to add the images.
     - [ ] use `a` to include the links of the top 5 places.
- 
+
     `2- CSS:`
     - [ ] use ` ` color for the main header.
     - [ ] use ` ` color for the paragraphs.
     - [ ] use `Euphorigenic` as font type.
 
-***
+---
 
-5-  Recipes web page:
+5- Recipes web page:
 
 - As a user I can learn different coffee recipes and preparations.
   - [ ] _there is a page with different recipes with coffee_
@@ -99,7 +100,7 @@ nice coffee.
     - [ ] use `h2` to include the sub headers.
     - [ ] use `p` to include the main paragraph.
     - [ ] use `img` to add the images.
- 
+
     `2- CSS:`
     - [ ] use ` ` color for the main header.
     - [ ] use ` ` color for the sub headers.
@@ -108,11 +109,11 @@ nice coffee.
 
     ***
 
-6-  properties web page:
+6- properties web page:
 
 - As a user I can learn about the production process of coffee.
   - [ ] _there is a section on a page where the process farm-to-cup is
-         described_
+        described_
   - this will be on `properties.html` web pages.
   - this will be developed on the branch `5-properties`.
 
@@ -123,23 +124,22 @@ nice coffee.
     - [ ] use `h2` to include the sub headers.
     - [ ] use `p` to include the main paragraph.
     - [ ] use `img` to add the images.
- 
+
     `2- CSS:`
     - [ ] use ` ` color for the main header.
     - [ ] use ` ` color for the sub headers.
     - [ ] use ` ` color for the paragraphs.
     - [ ] use `Euphorigenic` as font type.
 
-***
-***
+---
+
+---
 
 ## Shuld Haves
 
-  7-  Footer:
-    - As a user I can get in contact with the organization.
-      - [ ] _there is a footer with social media links and other contact info_
-      - this will be on all web pages.
-      - this will be developed on the branch `6-footer`.
+7- Footer: - As a user I can get in contact with the organization. - [ ] _there
+is a footer with social media links and other contact info_ - this will be on
+all web pages. - this will be developed on the branch `6-footer`.
 
 **Issues:**
 
@@ -148,9 +148,9 @@ nice coffee.
     - [ ] use `p` to include the main paragraph.
     - [ ] use `img` to add the social icons.
 
- 
+
     `2- CSS:`
     - [ ] use ` ` color for the footer.
     - [ ] use ` ` alignement.
 
-***
+---
