@@ -1,6 +1,25 @@
 {
   "language": "en",
-  "words": ["Aviv", "socio", "Wireframe"],
+  "words": [
+    "Antwerpen",
+    "Aviv",
+    "Caffénation",
+    "Caffènation",
+    "Eilandje",
+    "Kolonel",
+    "Koppi",
+    "Loring",
+    "Marzocco",
+    "Noord",
+    "Normo",
+    "Probat",
+    "Roastery",
+    "Smartroaster",
+    "socio",
+    "Viggo's",
+    "Viggo’s",
+    "Wireframe"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
