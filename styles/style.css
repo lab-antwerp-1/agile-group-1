@@ -95,12 +95,12 @@ img {
 .topImg {
     display: block;
     margin: 0 auto;
-    width: max 80%;
+    max-width: 80%;
 }
 
 .topText {
     text-align: justify;
-    width: 85%;
+    max-width: 80%;
     margin: 0 auto;
 }
 
