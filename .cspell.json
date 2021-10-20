@@ -1,6 +1,13 @@
 {
   "language": "en",
-  "words": ["Aviv", "socio", "Wireframe"],
+  "words": [
+    "Aviv",
+    "euphorigenic",
+    "homeintro",
+    "imgintro",
+    "socio",
+    "Wireframe"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
