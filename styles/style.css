@@ -92,15 +92,26 @@ img {
 
 /* TOP 5 */
 
+.topTitle {
+    font-size: 5rem;
+}
+
+.artTitle {
+    font-weight: 800;
+    color: var(--wine-dark-color);
+    font-size: 4.5rem;
+    font-style: italic;
+}
+
 .topImg {
     display: block;
     margin: 0 auto;
-    max-width: 80%;
+    max-width: 85%;
 }
 
 .topText {
     text-align: justify;
-    max-width: 80%;
+    max-width: 85%;
     margin: 0 auto;
 }
 
@@ -109,3 +120,8 @@ img {
 
 
 /* FOOTER */
+
+.footer {
+    background-color: var(--wine-mid2-color);
+    display: flex;
+}
