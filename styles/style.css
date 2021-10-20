@@ -3,11 +3,10 @@
 /* styling the main paragraph */
 .door {
   font-size: 30px;
-  font-family:Euphorigenic;
-  color: #461F00;
+  font-family: "Euphorigenic", Verdana, Arial, Helvetica;
+  color: #582327;
   text-align: justify;
   line-height: 1.5;
-  /*white-space: pre;*/
   margin-left: 50px;
   
 }
