@@ -1,36 +1,36 @@
 :root {
-    --header-font-family: eu;
-    --paragraph-font: something to decide;
-    --wine-light-color: #f3e2e3;
-    --wine-mid1-color: #8a5658;
-    --wine-mid2-color: #a04048;
-    --wine-dark-color: #582327;
+  --header-font-family: eu;
+  --paragraph-font: eu;
+  --wine-light-color: #f3e2e3;
+  --wine-mid1-color: #8a5658;
+  --wine-mid2-color: #a04048;
+  --wine-dark-color: #582327;
 }
 
+@font-face {
+    font-family: eu;
+    src: url(/assets/euphorigenic.ttf);
+    }
+
 html {
-    box-sizing: border-box;
-    font-size: 62.5%;
-    /* 1rem = 10px */
+  box-sizing: border-box;
+  font-size: 62.5%;
+  /* 1rem = 10px */
+
 }
 
 *,
 *:before,
 *:after {
-    box-sizing: inherit;
-    /* Keeps the size of the elements even when changing 'margin', 'padding', etc. */
+  box-sizing: inherit;
+  /* Keeps the size of the elements even when changing 'margin', 'padding', etc. */
 }
 
-body {
-    font-family: var();
-    font-size: 2rem;
-    line-height: 1.8;
-    text-align: center;
-    /* General text distribution */
-}
+/*body { font-family: var(--paragraph-font); font-size: 2rem; line-height: 1.8;  text-align: center;}*/
 
 
-/* Globals */
-
+/* Globals */ 
+ 
 .container {
     width: min(90%, 120rem);
     margin: 0 auto;
@@ -40,72 +40,85 @@ body {
 
 a {
     text-decoration: none;
-    /* Removes the underlining of the links */
+    /* Removes the underlining of the links  */
 }
 
 h1,
 h2,
 h3,
 h4 {
-    font-family: var(--header-font-family);
-    line-height: 1.3;
+  font-family: var(--header-font-family);
+  line-height: 1.3;
 }
 
 h1 {
-    font-size: 4.8rem;
+  font-size: 4.8rem;
 }
 
 h2 {
-    font-size: 4rem;
+  font-size: 4rem;
 }
 
 h3 {
-    font-size: 3.2rem;
+  font-size: 3.2rem;
 }
 
 h4 {
-    font-size: 2.8rem;
+  font-size: 2.8rem;
 }
 
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 .no-margin {
-    margin: 0;
+  margin: 0;
 }
 
 .no-padding {
-    padding: 0;
+  padding: 0;
 }
 
 .center-text {
-    text-align: center;
+  text-align: center;
 }
-
 
 /* HEADER */
 
-
 /* HOMEPAGE */
 
+/* styling the main paragraph */
+.homeIntro {
+  font-size: 30px;
+  font-family: var(--paragraph-font);
+  color: var(--wine-dark-color);
+  text-align: justify;
+  line-height: 1.5;
+  margin-left: 50px;
+}
+/* styling the image in the paragraph*/
+.imgIntro {
+  border-radius: 8px;
+  float: right;
+  max-width: 100%;
+  margin-right: 50px;
+  margin-left: 20px;
+}
 
 /* TOP 5 */
 
 .topImg {
-    display: block;
-    margin: 0 auto;
-    width: max 80%;
+  display: block;
+  margin: 0 auto;
+  width: max 80%;
 }
 
 .topText {
-    text-align: justify;
-    width: 85%;
-    margin: 0 auto;
+  text-align: justify;
+  width: 85%;
+  margin: 0 auto;
 }
 
-
 /* PREPARATION */
-
 
 /* FOOTER */
