@@ -29,7 +29,7 @@ html {
 /*body { font-family: var(--paragraph-font); font-size: 2rem; line-height: 1.8;  text-align: center;}*/
 
 /* Globals */
-
+ 
 .container {
   width: min(90%, 120rem);
   margin: 0 auto;
