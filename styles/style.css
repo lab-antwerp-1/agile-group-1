@@ -168,8 +168,15 @@ img {
 
 /* TOP 5 */
 
+.containerTop {
+    background-color: var(--wine-light-color);
+    width: min(90%, 120rem);
+    margin: 0 auto;
+    padding: 1rem;
+}
+
 .topTitle {
-    font-size: 5rem;
+    font-size: 7rem;
     text-align: center;
 }
 
