@@ -1,24 +1,25 @@
 {
   "language": "en",
   "words": [
-    "Antwerpen",
     "Aviv",
-    "Caffénation",
-    "Caffènation",
-    "Eilandje",
-    "Kolonel",
-    "Koppi",
-    "Loring",
-    "Marzocco",
-    "Noord",
-    "Normo",
-    "Probat",
-    "Roastery",
-    "Smartroaster",
+    "beignets",
+    "Cafecito",
+    "crema",
+    "etouffee",
+    "euphorigenic",
+<<<<<<< HEAD
+    "homeintro",
+    "imgintro",
+    "moka",
     "socio",
-    "Viggo's",
-    "Viggo’s",
-
+    "stovetop",
+=======
+    "microbubbles",
+    "moka",
+    "socio",
+    "stovetop",
+    "thespruceeats",
+>>>>>>> 4-recipes
     "Wireframe"
   ],
   "ignorePaths": [
