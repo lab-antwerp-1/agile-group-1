@@ -7,11 +7,19 @@
     "crema",
     "etouffee",
     "euphorigenic",
+<<<<<<< HEAD
     "homeintro",
     "imgintro",
     "moka",
     "socio",
     "stovetop",
+=======
+    "microbubbles",
+    "moka",
+    "socio",
+    "stovetop",
+    "thespruceeats",
+>>>>>>> 4-recipes
     "Wireframe"
   ],
   "ignorePaths": [
