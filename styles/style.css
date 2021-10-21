@@ -170,6 +170,7 @@ img {
 
 .topTitle {
     font-size: 5rem;
+    text-align: center;
 }
 
 .artTitle {
@@ -177,18 +178,26 @@ img {
     color: var(--wine-dark-color);
     font-size: 4.5rem;
     font-style: italic;
+    text-align: center;
 }
 
 .topImg {
     display: block;
     margin: 0 auto;
     max-width: 85%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .topText {
     text-align: justify;
     max-width: 85%;
     margin: 0 auto;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+    font-family: var(--paragraph-font);
 }
 
 
@@ -214,13 +223,6 @@ img {
     max-width: 20rem;
     max-height: auto;
 }
-
-
-/* .footText {
-    font-size: 2rem;
-    font-style: italic;
-    color: white;
-} */
 
 .navigation {
     display: flex;
