@@ -1,3 +1,9 @@
+@font-face {
+  font-family: eu;
+  src: url("//db.onlinewebfonts.com/t/b0d5d6f30dd47ccf390aa832a69bddd7.ttf")
+    format("truetype");
+}
+
 :root {
   --header-font-family: eu;
   --paragraph-font: eu;
@@ -5,11 +11,6 @@
   --wine-mid1-color: #8a5658;
   --wine-mid2-color: #a04048;
   --wine-dark-color: #582327;
-}
-
-@font-face {
-  font-family: eu;
-  src: url(https://github.com/lab-antwerp-1/agile-group-1/blob/main/assets/euphorigenic.ttf?raw=true);
 }
 
 html {
