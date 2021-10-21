@@ -35,7 +35,6 @@ body {
     width: min(90%, 120rem);
     margin: 0 auto;
     padding: 1rem;
-    background-color: var(--wine-light-color);
 }
 
 a {
@@ -122,6 +121,37 @@ img {
 /* FOOTER */
 
 .footer {
-    background-color: var(--wine-mid2-color);
+    background-color: var(--wine-dark-color);
     display: flex;
+}
+
+.bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* Justify-content: space-between sets the two elements apart on each side of the screen.  Align-items: center sets the two elements at the same height. */
+    padding-top: 1rem;
+}
+
+.logo {
+    max-width: 20rem;
+    max-height: auto;
+}
+
+
+/* .footText {
+    font-size: 2rem;
+    font-style: italic;
+    color: white;
+} */
+
+.navigation {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -1rem;
+}
+
+.navigationLink {
+    width: 50%;
+    height: auto;
 }
