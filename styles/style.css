@@ -96,7 +96,7 @@ img {
   position: sticky;
   width: 100%;
   height: 480px;
-  background-image: url("https://github.com/lab-antwerp-1/agile-group-1/blob/main/assets/header-bg.gif");
+  background-image: url(https://github.com/lab-antwerp-1/agile-group-1/blob/main/assets/header-bg.gif?raw=true);
   display: flex;
   align-items: center;
 }
