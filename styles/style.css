@@ -100,6 +100,7 @@ img {
   background-image: url(https://github.com/lab-antwerp-1/agile-group-1/blob/main/assets/header-bg.gif?raw=true);
   display: flex;
   align-items: center;
+  overflow: auto;
 }
 
 .header__outer .header__inner {
