@@ -1,6 +1,19 @@
 {
   "language": "en",
-  "words": ["Aviv", "socio", "Wireframe"],
+  "words": [
+    "Aviv",
+    "beignets",
+    "Cafecito",
+    "crema",
+    "etouffee",
+    "euphorigenic",
+    "microbubbles",
+    "moka",
+    "socio",
+    "stovetop",
+    "thespruceeats",
+    "Wireframe"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
