@@ -1,31 +1,30 @@
 :root {
-  --header-font-family: eu;
-  --paragraph-font: eu;
-  --wine-light-color: #f3e2e3;
-  --wine-mid1-color: #8a5658;
-  --wine-mid2-color: #a04048;
-  --wine-dark-color: #582327;
+    --header-font-family: eu;
+    --paragraph-font: eu;
+    --wine-light-color: #f3e2e3;
+    --wine-mid1-color: #8a5658;
+    --wine-mid2-color: #a04048;
+    --wine-dark-color: #582327;
 }
 
 @font-face {
-  font-family: eu;
-  src: url(/assets/euphorigenic.ttf);
+    font-family: eu;
+    src: url(/assets/euphorigenic.ttf);
 }
 
 html {
-  box-sizing: border-box;
-  font-size: 62.5%;
-
-  /* 1rem = 10px */
+    box-sizing: border-box;
+    font-size: 62.5%;
+    /* 1rem = 10px */
 }
 
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
-
-  /* Keeps the size of the elements even when changing 'margin', 'padding', etc. */
+    box-sizing: inherit;
+    /* Keeps the size of the elements even when changing 'margin', 'padding', etc. */
 }
+
 
 /* body { font-family: var(--paragraph-font); font-size: 2rem; line-height: 1.8;  text-align: center;} */
 
@@ -36,130 +35,130 @@ html {
     width: min(90%, 120rem);
     margin: 0 auto;
     padding: 1rem;
-
 }
 
 a {
-  text-decoration: none;
-
-  /* Removes the underlining of the links  */
+    text-decoration: none;
+    /* Removes the underlining of the links  */
 }
 
 h1,
 h2,
 h3,
 h4 {
-  font-family: var(--header-font-family);
-  line-height: 1.3;
+    font-family: var(--header-font-family);
+    line-height: 1.3;
 }
 
 h1 {
-  font-size: 4.8rem;
+    font-size: 4.8rem;
 }
 
 h2 {
-  font-size: 4rem;
+    font-size: 4rem;
 }
 
 h3 {
-  font-size: 3.2rem;
+    font-size: 3.2rem;
 }
 
 h4 {
-  font-size: 2.8rem;
+    font-size: 2.8rem;
 }
 
 img {
-  max-width: 100%;
+    max-width: 100%;
 }
 
 .no-margin {
-  margin: 0;
+    margin: 0;
 }
 
 .no-padding {
-  padding: 0;
+    padding: 0;
 }
 
 .center-text {
-  text-align: center;
+    text-align: center;
 }
+
 
 /* HEADER */
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .header__outer {
-  position: sticky;
-  width: 100%;
-  height: 480px;
-  background-image: url(/assets/header-bg.gif);
-  display: flex;
-  align-items: center;
+    position: sticky;
+    width: 100%;
+    height: 480px;
+    background-image: url(/assets/header-bg.gif);
+    display: flex;
+    align-items: center;
 }
 
 .header__outer .header__inner {
-  position: sticky;
-  top: 0;
-  width: 100%;
-  height: 100px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 20px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
 }
 
 .header__outer .header__inner .header__logo {
-  display: inline-block;
-  padding: 5px;
-  width: 800px;
-  height: 600px;
+    display: inline-block;
+    padding: 5px;
+    width: 800px;
+    height: 600px;
 }
 
 .header__outer .header__inner .header__nav a {
-  display: inline-block;
-  padding: 5px;
-  text-decoration: none;
-  font-size: 48px;
-  margin-right: 40px;
-  margin-bottom: 320px;
-  font-family: var(--header-font-family);
-  color: var(--wine-light-color);
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 48px;
+    margin-right: 40px;
+    margin-bottom: 320px;
+    font-family: var(--header-font-family);
+    color: var(--wine-light-color);
 }
 
 .header__outer .header__inner .header__nav a:hover {
-  text-decoration: none;
-  font-family: var(--header-font-family);
-  color: var(--wine-mid1-color);
+    text-decoration: none;
+    font-family: var(--header-font-family);
+    color: var(--wine-mid1-color);
 }
 
 .header__outer .header__inner .header__nav a:active {
-  text-decoration: none;
-  font-family: var(--header-font-family);
-  color: var(--wine-mid2-color);
+    text-decoration: none;
+    font-family: var(--header-font-family);
+    color: var(--wine-mid2-color);
 }
 
 .homeintro {
-  font-size: 30px;
-  font-family: var(--paragraph-font);
-  color: var(--wine-dark-color);
-  text-align: justify;
-  line-height: 1.5;
-  margin-top: 80px;
-  margin-left: 50px;
+    font-size: 30px;
+    font-family: var(--paragraph-font);
+    color: var(--wine-dark-color);
+    text-align: justify;
+    line-height: 1.5;
+    margin-top: 80px;
+    margin-left: 50px;
 }
 
 .imgintro {
-  border-radius: 8px;
-  float: right;
-  max-width: 100%;
-  margin-right: 50px;
-  margin-left: 20px;
+    border-radius: 8px;
+    float: right;
+    max-width: 100%;
+    margin-right: 50px;
+    margin-left: 20px;
 }
+
 
 /* TOP 5 */
 
@@ -184,10 +183,11 @@ img {
     text-align: justify;
     max-width: 85%;
     margin: 0 auto;
-
 }
 
+
 /* PREPARATION */
+
 
 /* FOOTER */
 
