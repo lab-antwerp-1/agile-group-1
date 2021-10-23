@@ -62,15 +62,6 @@ img {
   width: 100%;
 }
 
-/* Figure caption for the copyright */
-figcaption {
-  color: black;
-  font-style: normal;
-  padding: 2px;
-  text-align: center;
-  font-size: 15px;
-}
-
 /* Read more button for external webpages */
 a:link,
 a:visited {
