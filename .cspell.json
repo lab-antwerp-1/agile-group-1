@@ -20,7 +20,32 @@
     "stovetop",
     "thespruceeats",
     "truetype",
-    "Wireframe"
+    "Wireframe",
+    "Kaldi",
+    "Amion",
+    "Phytosterols",
+    "Tannis",
+    "Pantothenic",
+    "neurodegenerative",
+    "neurodegenerative",
+    "colorectal",
+    "Marzocco",
+    "Loring",
+    "Smartroaster",
+    "Viggo's",
+    "Antwerpen",
+    "Noord",
+    "Koppi",
+    "Caffénation",
+    "Eilandje",
+    "Shuld",
+    "alignement",
+    "devlopment",
+    "propintro",
+    "imgsize",
+    "marginall",
+    "listcont",
+    "Viggo’s"
   ],
   "ignorePaths": [
     "node_modules/**",
@@ -28,6 +53,7 @@
     "package-lock.json",
     "**/*.mp4",
     "**/*.svg",
-    "accessibility_report"
+    "accessibility_report",
+    "./assets/**"
   ]
 }
