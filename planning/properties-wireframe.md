@@ -1,3 +1,3 @@
  # properties-wireframe
  
- ![properties-wireframe](assets/properties-wireframe.png)
+ ![properties-wireframe](/assets/properties-wireframe.png)
