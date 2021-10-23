@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+  font-family: Open Sans, sans-serif;
+  margin: 10px;
+}
+
+/* Style the section */
+section {
+  font-family: Open Sans, sans-serif;
+  margin: 10px;
+  text-align: center;
+}
+
+/* Style typography */
+p {
+  margin-top: 20px;
+  line-height: 1.3;
+  font-size: 18px;
+  text-align: justify;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-family: euphorigenic, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  font-weight: lighter;
+}
+
+h1 {
+  font-family: century gothic, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+/* Column container */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+/* Column */
+.col {
+  flex: 33%;
+  padding: 5px;
+}
+
+/* Column content container */
+.col-content {
+  padding: 15px;
+  background: #f3e2e3;
+}
+
+/* Images */
+img {
+  width: 100%;
+}
+
+/* Figure caption for the copyright */
+figcaption {
+  color: black;
+  font-style: normal;
+  padding: 2px;
+  text-align: center;
+  font-size: 15px;
+}
+
+/* Read more button for external webpages */
+a:link,
+a:visited {
+  background-color: #f3e2e3;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 300px;
+}
+
+a:hover,
+a:active {
+  background-color: #582327;
+  color: white;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row,
+  .navbar,
+  .col {
+    flex-direction: column;
+  }
+}
