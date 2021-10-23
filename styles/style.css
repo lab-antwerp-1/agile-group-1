@@ -1,7 +1,6 @@
 @font-face {
   font-family: eu;
-  src:
-    url("//db.onlinewebfonts.com/t/b0d5d6f30dd47ccf390aa832a69bddd7.ttf")
+  src: url("//db.onlinewebfonts.com/t/b0d5d6f30dd47ccf390aa832a69bddd7.ttf")
     format("truetype");
 }
 
@@ -253,6 +252,10 @@ img {
   margin-top: 50px;
 }
 
+.subHdr2 {
+  font-size: 3.2rem;
+  color: var(--wine-mid1-color);
+}
 .marginall {
   margin-left: 50px;
   margin-right: 50px;
