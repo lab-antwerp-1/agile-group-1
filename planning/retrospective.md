@@ -26,9 +26,11 @@ Things to agree on beforehand (Standard paremeters)
 
 ## Start Doing
 
-- Keep a library of your own work so can keep using and perfecting things you have made before.
+- Keep a library of your own work so can keep using and perfecting
+ things you have made before.
 
-- Talk to other teams and see what from their experience can be uselful and what we can help them with if necessary.
+- Talk to other teams and see what from their experience
+ can be uselful and what we can help them with if necessary.
 
 - Star using Responsively app.
 
@@ -36,15 +38,19 @@ Things to agree on beforehand (Standard paremeters)
 
 - MediaQuery for sreen sizes.
 
-- Comment the code so others can understand your thought process and identify your work.
+- Comment the code so others can understand your thought process
+ and identify your work.
 
 ---
 
 ## Strategy vs. Board
 
-- Translating the development strategy into issues seems to be crucial in order to reflect the amount of work to be divided and the overall progression.
+- Translating the development strategy into issues 
+seems to be crucial in order to reflect the amount
+of work to be divided and the overall progression.
 
-- Maybe having one person in charge of planning and managing the project board and issues.
+- Maybe having one person in charge of planning 
+and managing the project board and issues.
 
 ### What parts of your plan went as expected?
 
