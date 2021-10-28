@@ -12,12 +12,3 @@
 
 - [darin houmda](https://github.com/Darin-Hamouda)
 
-## our goals
-
-> Rethink (brainstorm) HYF website toghter through agile devoplment process 
-
-## HYF website 
-
-[HYF](https://hackyourfuture.be/)
-
-
