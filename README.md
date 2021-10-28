@@ -14,11 +14,10 @@
 
 ## our goals
 
-> create working website toghter through agile devoplment process 
+> Rethink (brainstorm) HYF website toghter through agile devoplment process 
 
-## our website 
+## HYF website 
 
-[4coffelovers](https://lab-antwerp-1.github.io/agile-group-1/)
+[HYF](https://hackyourfuture.be/)
 
-![coffe logo](https://raw.githubusercontent.com/lab-antwerp-1/agile-group-1/main/assets/top-five-imgs/logo.png)
 
